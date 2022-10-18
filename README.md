@@ -1,4 +1,4 @@
-# Algorithms_Exploration--Cubing_Workflow
+# Algorithms Exploration - Cubing Workflow
 To record progress made while learning how to solve the Pyraminx.
 
 **Current Skill Set** (*Abilities*)
